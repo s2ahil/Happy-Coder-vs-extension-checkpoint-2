@@ -1,0 +1,54 @@
+{
+  "name": "happier-coder",
+  "displayName": "Happier coder",
+  "description": "Check security of your code with happier",
+  "publisher":"sahilpradhan",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "happier-coder.happycoder",
+        "title": "Get Started with Code Security Checks"
+      },
+      {
+        "command": "happier-coder.cloak",
+        "title": "Cloak API Keys"
+    },
+    {
+        "command": "happier-coder.reveal",
+        "title": "Reveal API Keys"
+    },
+  
+    {
+      "command":   "happier-coder.detectXSS",
+      "title": "Detect cross site scripting"
+  }
+    ]
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "pretest": "npm run lint",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.7",
+    "@types/node": "20.x",
+    "@types/vscode": "^1.93.0",
+    "@vscode/test-cli": "^0.0.10",
+    "@vscode/test-electron": "^2.4.1",
+    "eslint": "^9.9.1"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "axios": "^1.7.7",
+    "fast-xml-parser": "^4.5.0"
+  }
+}
