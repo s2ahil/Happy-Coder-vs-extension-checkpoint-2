@@ -40,10 +40,12 @@ To check for SQL injection, use the following command:
 
 - **Publisher:** Sahil Pradhan
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Code output :
 
 sql injection detection and recommendation : ![image](https://github.com/user-attachments/assets/a2273aee-3b61-4177-85e2-5a89ef8c5f7d)
+----
 Hide and unhide keys :![image](https://github.com/user-attachments/assets/15ed9ff7-e690-4155-9207-73d3e667cc97)
+----
 cross site scripting check .
 
