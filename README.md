@@ -1,5 +1,7 @@
 # Happier Coder   
 
+Deployed on vs code market place : 
+
 ![image](https://github.com/user-attachments/assets/3be93d4b-e513-477d-9e71-1ec6059c9afc)
 
 
@@ -10,6 +12,17 @@
 - **SQL Injection Analysis:** Detect potential SQL injection vulnerabilities and receive suggestions for secure coding practices.
 - **Cross-Site Scripting (XSS) Detection:** Identify XSS vulnerabilities and get recommendations to mitigate them.
 - **Cloak and Reveal API Keys:** Manage your API keys securely by cloaking and revealing them as needed.
+
+## Instruction To Run
+
+1,click on the tab -> show and run commands ->
+![image](https://github.com/user-attachments/assets/a3962565-b35a-4df5-8a4f-115b3df3ae41)
+
+2,show and run commands ->  4 commands to run choose accordingly .
+
+![image](https://github.com/user-attachments/assets/50b63bc0-9651-445e-a01b-403498961b8e)
+
+
 
 ## Commands
 
