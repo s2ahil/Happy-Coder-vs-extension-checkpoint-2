@@ -1,4 +1,7 @@
-# Happier Coder
+# Happier Coder   
+
+![image](https://github.com/user-attachments/assets/3be93d4b-e513-477d-9e71-1ec6059c9afc)
+
 
 **Happier Coder** is a VS Code extension designed to assist developers in enhancing the security of their code by analyzing it for vulnerabilities, such as SQL injection and cross-site scripting (XSS). It recommends best practices for writing secure code, making your development process safer and more efficient.
 
